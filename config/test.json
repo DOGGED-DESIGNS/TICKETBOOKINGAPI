@@ -1,0 +1,10 @@
+{
+  "database": {
+    "database": "doggedlite",
+    "username": "dogged",
+    "password": "dogged8000",
+    "dialect": "sqlite",
+    "storage": "./test.sqlite",
+    "logging": false
+  }
+}
